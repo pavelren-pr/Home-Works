@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0238f78-7d25-46cb-b6d8-a51fcdcbc03d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gigaide/gigaide.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gigaide/gigaide.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home Works/src/HomeWork/HomeWork05Addition/Television.java" beforeDir="false" afterPath="$PROJECT_DIR$/Home Works/src/HomeWork/HomeWork05Addition/Television.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Home Works/HomeWork/HomeWork05Addition/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Home Works/HomeWork/HomeWork05Addition/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Home Works/HomeWork/HomeWork05Addition/Television.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Home Works/HomeWork/HomeWork05Addition/Television.class" afterDir="false" />
-    </list>
+    <list default="true" id="c0238f78-7d25-46cb-b6d8-a51fcdcbc03d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
