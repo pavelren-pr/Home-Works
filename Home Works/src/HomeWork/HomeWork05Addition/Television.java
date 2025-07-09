@@ -131,7 +131,8 @@ public class Television {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Television that = (Television) o;
-        return currentChannel == that.currentChannel && currentVolume == that.currentVolume && isOn == that.isOn && Objects.equals(source, that.source);
+        return currentChannel == that.currentChannel && currentVolume == that.currentVolume
+                && isOn == that.isOn && Objects.equals(source, that.source);
     }
 
     @Override
