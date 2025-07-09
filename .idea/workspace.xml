@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0238f78-7d25-46cb-b6d8-a51fcdcbc03d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gigaide/gigaide.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gigaide/gigaide.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home Works/src/HomeWork/HomeWork05Addition/Television.java" beforeDir="false" afterPath="$PROJECT_DIR$/Home Works/src/HomeWork/HomeWork05Addition/Television.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Home Works/HomeWork/HomeWork05Addition/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Home Works/HomeWork/HomeWork05Addition/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Home Works/HomeWork/HomeWork05Addition/Television.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Home Works/HomeWork/HomeWork05Addition/Television.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;pavelren-pr&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/pavelren-pr/Home-Works.git&quot;,
+    &quot;accountId&quot;: &quot;6dd4d392-137f-47bf-b75c-3fa0ec602821&quot;
+  }
+}</component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2zSXLvieegLNkZOVOAdkCnTlJKO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task02.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Павел/Documents/GitHub/Home-Works/Home Works/src/HomeWork/HomeWork05Addition&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Павел/Documents/GitHub/Home-Works/Home Works/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Павел\Documents\GitHub\Home-Works\Home Works\src\HomeWork\HomeWork05Addition" />
+      <recent name="C:\Users\Павел\Documents\GitHub\Home-Works\Home Works\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0238f78-7d25-46cb-b6d8-a51fcdcbc03d" name="Changes" comment="" />
+      <created>1751725396795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751725396795</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.UnsupportedOperationException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
