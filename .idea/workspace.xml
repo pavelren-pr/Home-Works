@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0238f78-7d25-46cb-b6d8-a51fcdcbc03d" name="Changes" comment="" />
+    <list default="true" id="c0238f78-7d25-46cb-b6d8-a51fcdcbc03d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Home Works/Home Works.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Home Works/Home Works.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,8 +46,9 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Павел/Documents/GitHub/Home-Works/Home Works/src/HomeWork/HomeWork05Addition",
+    "last_opened_file_path": "C:/Users/Павел/Documents/GitHub",
     "onboarding.tips.debug.path": "C:/Users/Павел/Documents/GitHub/Home-Works/Home Works/src/Main.java",
     "settings.editor.selected.configurable": "project.scopes"
   }
