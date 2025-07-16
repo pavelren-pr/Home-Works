@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0238f78-7d25-46cb-b6d8-a51fcdcbc03d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Home Works/Home Works.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Home Works/Home Works.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,10 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Павел/Documents/GitHub",
     "onboarding.tips.debug.path": "C:/Users/Павел/Documents/GitHub/Home-Works/Home Works/src/Main.java",
-    "settings.editor.selected.configurable": "project.scopes"
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
